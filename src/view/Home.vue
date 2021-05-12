@@ -3,7 +3,7 @@
     <el-input
       type="textarea"
       :rows="2"
-      placeholder="输入想放大的字"
+      placeholder="输入想放大的字，更多功能，联系liya"
       v-model="textarea">
     </el-input>
     <div class="show">
